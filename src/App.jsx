@@ -381,7 +381,7 @@ const memberList = useMemo(() => {
 
       <h1>Mint your free DevsDAO Membership NFT</h1>
       <div>
-        <img src={devsdaoIcon}/>
+        <img src={devsdaoIcon} alt="daoImage"/>
       </div>
       <button
         disabled={isClaiming}
